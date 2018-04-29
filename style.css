@@ -29,13 +29,13 @@ a {
     display: inline-flex;
     padding-right: 24px
 }
-
+overflow
 .header-text ul{
     display: inline-block;
 }
 
 #header-body{
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .header{
